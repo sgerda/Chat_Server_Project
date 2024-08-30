@@ -1,0 +1,9 @@
+﻿  Network Project_2.cpp
+  Server.cpp
+C:\Users\saulg\OneDrive\Escritorio\pass classes and project\Networking\Network Project_2\Network Project_2\Server.cpp(39,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\saulg\OneDrive\Escritorio\pass classes and project\Networking\Network Project_2\Network Project_2\Server.cpp(120,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\saulg\OneDrive\Escritorio\pass classes and project\Networking\Network Project_2\Network Project_2\Server.cpp(195,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\saulg\OneDrive\Escritorio\pass classes and project\Networking\Network Project_2\Network Project_2\Server.cpp(282,15): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+C:\Users\saulg\OneDrive\Escritorio\pass classes and project\Networking\Network Project_2\Network Project_2\Server.cpp(551,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Network Project_2.vcxproj -> C:\Users\saulg\OneDrive\Escritorio\pass classes and project\Networking\Network Project_2\x64\Debug\Network Project_2.exe

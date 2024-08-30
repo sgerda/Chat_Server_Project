@@ -1,0 +1,7 @@
+joe: Hello there. 
+joe: Where the mommas at?
+cameron: hello world
+user: testing stuff
+user: wow
+user: I love life
+portfolio: portfolio showing
